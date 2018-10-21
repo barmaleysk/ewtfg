@@ -1,4 +1,4 @@
 module.exports = {
-    TOKEN: '655728040:AAFnhcwYKbkBUoWhDJLxaaR3aG4-NY9bQWE',
+    TOKEN: '586419223:AAHkzS27NeGSh7O1W73uAKqiqOEJHcEdcu4',
     DB_URL: 'mongodb://localhost/darkwarehouse'
 }
